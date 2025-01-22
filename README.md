@@ -10,9 +10,10 @@
 
 > Make sure to read our [contributing guidelines](https://github.com/clairecharles/Halloween22/blob/main/CONTRIBUTING.md)
 
-### 1\. Skip all of the steps below by using Gitpod, which would automatically do all of that for you
+### 1\. Skip all of the steps below by using Gitpod or Codeanywhere, which would automatically do all of that for you
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/clairecharles/Halloween22.git)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/clairecharles/Halloween22.git)
 
 ### 2\. Clone this Repository
 
